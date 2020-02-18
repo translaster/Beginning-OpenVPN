@@ -1,2 +1,2 @@
-# Beginning-OpenVPN-2.0.9
-Beginning OpenVPN 2.0.9 (Russian Translate)
+# Начало OpenVPN 2.0.9
+Начало OpenVPN версии 2.0.9 (русский перевод)
